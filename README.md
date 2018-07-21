@@ -1,6 +1,7 @@
-# convexhull
-Convex hull algorithm implementation in JavaScript for Analysis of algorithms lecture
+# Convexhull
+Convex hull algorithm implementation using canvas in JavaScript for Analysis of Algorithms lecture.
 
+### You can check the demo by clicking [here](https://suleymantekin.github.io/convexhull/).
 
 ## Andrew's monotone chain convex hull algorithm
 
